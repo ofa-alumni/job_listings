@@ -29,4 +29,4 @@ Email me, Jordan Ho, at jho@zocalogroup.com or hit me up on twitter at @sneaksta
 
 Senior Developer - mix of client work and platform development
 
-		
+    

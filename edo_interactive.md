@@ -35,4 +35,4 @@ We need strong Data Analysts and Data Scientists. We also need strong IT infrast
 
 We are primarily using open source tools (PostgreSql, MySql, and Vectorwise databases), and welcome people who are strong in those areas. 
 
-		
+    

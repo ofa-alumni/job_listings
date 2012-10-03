@@ -19,4 +19,4 @@ Email resume and career goals to craig@keepersecurity.com
 
 Software development, QA, Marketing
 
-		
+    

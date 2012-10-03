@@ -23,4 +23,4 @@ Candidates can apply via our website: http://www.jellyvisiongames.com/jobs/
 
 We're looking for experienced software engineers that can help us develop games on Apple iOS, Android, and Facebook. 
 
-		
+    

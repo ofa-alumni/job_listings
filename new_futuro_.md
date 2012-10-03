@@ -19,4 +19,4 @@ Send resume to Gerardo@newfuturo.com
 
 Product Managers, Proyect Managers, Ruby developers, Data scientists, Sr VP's or product
 
-		
+    

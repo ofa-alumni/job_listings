@@ -19,4 +19,4 @@ http://www.jobscore.com/jobs/sittercityincorporated/front-end-developer/d7-_mc7H
 
 We are currently replatforming and creating a next generation product in RoR.  It's an opportunity to do a ground of rewrite of a proven, successful business model with huge upside opportunity.  We are looking for senior technologists.
 
-		
+    
