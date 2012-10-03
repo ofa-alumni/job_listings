@@ -25,37 +25,37 @@ We're looking for a strong, creative Ruby on Rails developer with the experience
 
 Responsibilities
 
-•	Collaborate with multiple developers and teams, in a fast-paced iterative and environment 
+ * Collaborate with multiple developers and teams, in a fast-paced iterative and environment 
 
 as part of the agile development process, working with talented engineers and ensure goals and requirements of the business are met.
 
-•	Develop advanced web applications using Ruby on Rails
+ * Develop advanced web applications using Ruby on Rails
 
-•	Work to build and maintain software with the highest standards of software craftsmanship
+ * Work to build and maintain software with the highest standards of software craftsmanship
 
-•	Help build a culture of learning and continuous improvement on the team
+ * Help build a culture of learning and continuous improvement on the team
 
-•	Build strong business domain knowledge related to online advertising, campaign planning and execution, ad serving technologies and related topics
+ * Build strong business domain knowledge related to online advertising, campaign planning and execution, ad serving technologies and related topics
 
-•	Collaborate with customers, product owners, developers and testers to solve real business problems
+ * Collaborate with customers, product owners, developers and testers to solve real business problems
 
-•	Support and improve development infrastructure including our continuous integration server and automated testing infrastructure
+ * Support and improve development infrastructure including our continuous integration server and automated testing infrastructure
 
 Required Skills
 
-•	Expert with 3+ years of web development experience with Ruby on Rails
+ * Expert with 3+ years of web development experience with Ruby on Rails
 
-•	Expertise with at least one other programming language and web application framework
+ * Expertise with at least one other programming language and web application framework
 
-•	A true passion for technology, demonstrated by work on independent and open source projects
+ * A true passion for technology, demonstrated by work on independent and open source projects
 
-•	Direct experience with the development and maintenance of large-scale, mission-critical web applications
+ * Direct experience with the development and maintenance of large-scale, mission-critical web applications
 
-•	A solid understanding of database technologies ,including experience with MongoDB and/or MySQL
+ * A solid understanding of database technologies ,including experience with MongoDB and/or MySQL
 
-•	Experience with TDD and other Agile methodologies 
+ * Experience with TDD and other Agile methodologies 
 
-•	A creative, problem-solving mindset that includes an instinct for detecting edge cases and the ability to think like an end user.
+ * A creative, problem-solving mindset that includes an instinct for detecting edge cases and the ability to think like an end user.
 
 
 
