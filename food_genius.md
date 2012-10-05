@@ -1,4 +1,3 @@
-
 #Food Genius
 
 * Email: [ecooper@getfoodgenius.com ](mailto:ecooper@getfoodgenius.com )
@@ -61,7 +60,8 @@ We need additional designers, engineers (back and front), and data scientists. E
 
 *(Please add yourself if you know anything about this organization)*
 
-* 
+* Dylan Richard
+* Harper Reed
 
 
     
