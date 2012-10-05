@@ -1,4 +1,3 @@
-
 #Inventables, Inc.
 
 * Email: [zkaplan@inventables.com](mailto:zkaplan@inventables.com)
@@ -35,7 +34,7 @@ Customer acquisition - using our cohort analysis tool to identify and market to 
 
 *(Please add yourself if you know anything about this organization)*
 
-* 
+* Abi Noda
 
 
     
