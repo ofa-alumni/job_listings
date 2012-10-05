@@ -19,4 +19,9 @@ Shoot me a note and we can chat about it.
 
 For engineers we can always find something. For other great people it can be tougher but still doable.
 
+##Campaign people who have had experience with company:
+
+(Please add yourself if you know anything about this organization)
+
+
     

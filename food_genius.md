@@ -57,4 +57,9 @@ We’re a Python shop that ships platforms built on a variety of modern tools an
 
 We need additional designers, engineers (back and front), and data scientists. Experience in any of the above is a plus, but a love for rapidly hypothesizing, testing, and implementing solutions is what Food Genius emphasizes.
 
+##Campaign people who have had experience with company:
+
+(Please add yourself if you know anything about this organization)
+
+
     

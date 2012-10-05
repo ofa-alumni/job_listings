@@ -47,4 +47,9 @@ A Python ace to build out our back-end to scale.
 
 iOS developer to build a cutting-edge mobile-social app.
 
+##Campaign people who have had experience with company:
+
+(Please add yourself if you know anything about this organization)
+
+
     

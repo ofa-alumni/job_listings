@@ -23,4 +23,9 @@ http://eshots.com/about/careers.htm
 
 We are hiring for Director of Product Management and Marketing, Account Managers, Account Coordinators, Web Application Developers, and Quality Assurance Associate. 
 
+##Campaign people who have had experience with company:
+
+(Please add yourself if you know anything about this organization)
+
+
     

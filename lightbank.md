@@ -19,4 +19,9 @@ It's easy- just send an email to Amy@lightbank.com and I can give you more infor
 
 There are a lot of opportunities within all of our start ups. Most of our companies are looking for open source developers (RoR, PHP, Ruby), FrontEnd Developers, Mobile Developers (iOS & Android), Designers etc
 
+##Campaign people who have had experience with company:
+
+(Please add yourself if you know anything about this organization)
+
+
     

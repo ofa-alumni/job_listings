@@ -67,4 +67,9 @@ Knowledge of design patterns is a must
 
 Familiarity with continuous integration is a big plus (Cruise Control, Hudson, Jenkins, etc.) It’s good to have experience "fixing the build".
 
+##Campaign people who have had experience with company:
+
+(Please add yourself if you know anything about this organization)
+
+
     
