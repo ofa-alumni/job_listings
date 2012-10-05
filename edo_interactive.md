@@ -37,7 +37,9 @@ We are primarily using open source tools (PostgreSql, MySql, and Vectorwise data
 
 ##Campaign people who have had experience with company:
 
-(Please add yourself if you know anything about this organization)
+*(Please add yourself if you know anything about this organization)*
+
+* 
 
 
     

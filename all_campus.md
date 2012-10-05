@@ -33,7 +33,9 @@ Early stage opportunity for well funded startup.  Looking for strong Web Applica
 
 ##Campaign people who have had experience with company:
 
-(Please add yourself if you know anything about this organization)
+*(Please add yourself if you know anything about this organization)*
+
+* 
 
 
     

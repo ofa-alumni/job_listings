@@ -27,7 +27,9 @@ We're looking to hire a CTO and developers.  This is a chance to help build a ki
 
 ##Campaign people who have had experience with company:
 
-(Please add yourself if you know anything about this organization)
+*(Please add yourself if you know anything about this organization)*
+
+* 
 
 
     

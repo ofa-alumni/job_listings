@@ -55,7 +55,9 @@ Business is great and we are always looking for bright, dedicated folks to join 
 
 ##Campaign people who have had experience with company:
 
-(Please add yourself if you know anything about this organization)
+*(Please add yourself if you know anything about this organization)*
+
+* 
 
 
     

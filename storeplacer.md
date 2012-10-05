@@ -55,7 +55,9 @@ Storeplacer is seeking to hire additional engineers in Q4 / Q1 2013.  Our primar
 
 ##Campaign people who have had experience with company:
 
-(Please add yourself if you know anything about this organization)
+*(Please add yourself if you know anything about this organization)*
+
+* 
 
 
     

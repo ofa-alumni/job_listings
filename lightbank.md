@@ -21,7 +21,9 @@ There are a lot of opportunities within all of our start ups. Most of our compan
 
 ##Campaign people who have had experience with company:
 
-(Please add yourself if you know anything about this organization)
+*(Please add yourself if you know anything about this organization)*
+
+* 
 
 
     

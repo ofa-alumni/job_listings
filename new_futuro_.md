@@ -21,7 +21,9 @@ Product Managers, Proyect Managers, Ruby developers, Data scientists, Sr VP's or
 
 ##Campaign people who have had experience with company:
 
-(Please add yourself if you know anything about this organization)
+*(Please add yourself if you know anything about this organization)*
+
+* 
 
 
     

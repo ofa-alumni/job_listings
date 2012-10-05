@@ -59,7 +59,9 @@ We need additional designers, engineers (back and front), and data scientists. E
 
 ##Campaign people who have had experience with company:
 
-(Please add yourself if you know anything about this organization)
+*(Please add yourself if you know anything about this organization)*
+
+* 
 
 
     

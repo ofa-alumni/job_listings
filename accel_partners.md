@@ -21,7 +21,9 @@ For engineers we can always find something. For other great people it can be tou
 
 ##Campaign people who have had experience with company:
 
-(Please add yourself if you know anything about this organization)
+*(Please add yourself if you know anything about this organization)*
+
+* 
 
 
     

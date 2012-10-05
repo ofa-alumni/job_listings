@@ -69,7 +69,9 @@ Familiarity with continuous integration is a big plus (Cruise Control, Hudson, J
 
 ##Campaign people who have had experience with company:
 
-(Please add yourself if you know anything about this organization)
+*(Please add yourself if you know anything about this organization)*
+
+* 
 
 
     

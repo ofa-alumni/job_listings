@@ -21,7 +21,9 @@ Our engineering group is organized around areas of expertise, though everyone wo
 
 ##Campaign people who have had experience with company:
 
-(Please add yourself if you know anything about this organization)
+*(Please add yourself if you know anything about this organization)*
+
+* 
 
 
     

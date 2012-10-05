@@ -31,7 +31,9 @@ Email to set up coffee chat with Seyi@Power2Switch.com
 
 ##Campaign people who have had experience with company:
 
-(Please add yourself if you know anything about this organization)
+*(Please add yourself if you know anything about this organization)*
+
+* 
 
 
     
