@@ -1,4 +1,3 @@
-
 #Medallia
 
 * Email: [pkriss@medallia.com](mailto:pkriss@medallia.com)
@@ -39,7 +38,7 @@ We’re also hiring non-engineers. Our Solutions and Services teams (who configu
 
 *(Please add yourself if you know anything about this organization)*
 
-* 
+* [Jesse Kriss](mailto:jesse@jklabs.net) (Peter's my brother, as you might have guessed)
 
 
     
