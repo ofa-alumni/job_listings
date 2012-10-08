@@ -1,4 +1,3 @@
-
 #Zendesk
 
 * Email: [sam@zendesk.com](mailto:sam@zendesk.com)
@@ -23,7 +22,8 @@ Lots! We are growing quite fast. Engineering, Marketing, Product Management, Des
 
 *(Please add yourself if you know anything about this organization)*
 
-* 
+Scout - I worked at Zendesk for 9 months before coming to the campaign. It is a terrific place to work and I'm happy to make introductions.
+The culture is great, the people are smart, it's <relatively> low stress compared to most startups I've worked at, and they are serious about the "no assholes" policy.
 
 
     
