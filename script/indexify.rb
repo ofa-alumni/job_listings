@@ -20,7 +20,7 @@ class Posting
   end
   
   def name
-    @name ||= @data.scan(/^#([^\n]+)$/)[0]    
+    @name ||= @data.scan(/^#([^\n]+)$/)[0]   
   end
   
   def location
@@ -44,10 +44,12 @@ outfile.puts <<-EOF
   <head>
     <meta charset='utf-8' />
     <title>Nov 7 Job Listings</title>
+    <link href="http://twitter.github.com/bootstrap/assets/css/bootstrap.css" rel="stylesheet">
+    <link href="http://twitter.github.com/bootstrap/assets/css/bootstrap-responsive.css" rel="stylesheet">
     <style type="text/css">body{ font-family:helvetica;} td, th{ padding: 10px; }</style>
   </head>
   <body>
-    <table>
+    <table class="table table-striped table-hover">
       <tr>
         <th style="width:15%;">Name</th>
         <th style="width:15%;">Location</th>
