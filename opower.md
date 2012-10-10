@@ -1,4 +1,3 @@
-
 #Opower
 
 * Email: [jobs@opower.com](mailto:jobs@opower.com)
@@ -25,7 +24,7 @@ Please visit www.opower.com/careers
 
 *(Please add yourself if you know anything about this organization)*
 
-* 
+* Erek Dyskant
 
 
     
