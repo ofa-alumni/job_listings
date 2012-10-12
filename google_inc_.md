@@ -1,4 +1,3 @@
-
 #Google, Inc.
 
 * Email: [fitz@google.com](mailto:fitz@google.com)
@@ -32,4 +31,7 @@ Technical Program Management
 
 * Winnie Lam (wlam@barackobama.com)
   Product Manager
+
+* Jeff Solnet (jsolnet@barackobama.com, jfsolnet@gmail.com)
+  Intern, Google Politics and Elections Products
     
