@@ -1,7 +1,7 @@
 #SpotOn
 
 * Email: [support@spoton.com](mailto:support@spoton.com)
-* URL: [www.spoton.com](www.spoton.com)
+* URL: [http://www.spoton.com](www.spoton.com)
 * Location: 549 W Randolph St, Suite 702, Chicago, IL
 
 Added: 10/15/2012 11:46:42
