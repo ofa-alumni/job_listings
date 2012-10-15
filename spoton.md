@@ -1,4 +1,3 @@
-
 #SpotOn
 
 * Email: [support@spoton.com](mailto:support@spoton.com)
@@ -43,7 +42,7 @@ Senior Back-End Developer
 
 *(Please add yourself if you know anything about this organization)*
 
-* 
+* Christopher Coté (previous VP of Technology)
 
 
     
