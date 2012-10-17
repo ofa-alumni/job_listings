@@ -1,4 +1,3 @@
-
 #Practice Fusion
 
 * Email: [matt@practicefusion.com](mailto:matt@practicefusion.com)
@@ -45,8 +44,7 @@ If you have a unique skillset and want to put it to use building cutting-edge he
 
 ##Campaign people who have had experience with company:
 
-*(Please add yourself if you know anything about this organization)*
-
+Scout - Matt worked on the bookmarklet project out of our SF tech office. I helped him with UX on it and he was great to work with. I think he'd be a terrific person to work for.
 * 
 
 
