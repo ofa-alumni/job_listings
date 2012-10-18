@@ -38,7 +38,7 @@ http://www.retrofitme.com/careers
 
 *(Please add yourself if you know anything about this organization)*
 
-* A few trusted friends know Jeff Hyman, the CEO, have very good things to say. His Mixergy podcast is wonderful: http://mixergy.com/hyman-retrofit-interview/ -Chirag
+* A few trusted friends know Jeff Hyman, the CEO, and have very good things to say. His Mixergy podcast is wonderful: http://mixergy.com/hyman-retrofit-interview/ -Chirag
 
 
     
