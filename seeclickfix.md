@@ -1,4 +1,3 @@
-
 #SeeClickFix
 
 * Email: [kam@seeclickfix.com](mailto:kam@seeclickfix.com)
@@ -43,7 +42,7 @@ If you are passionate about working with SeeClickFix but don't find a job openin
 
 *(Please add yourself if you know anything about this organization)*
 
-* 
+* I know the founder and CEO very well (Ben Berkowitz) who is an awesome dude. I'm a user of SeeClickFix and they have created a very good solution for solving the problem of civic apathy. -Chirag
 
 
     
