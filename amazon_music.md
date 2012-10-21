@@ -62,7 +62,7 @@ Software Engineers - iOS, Android, front-end and server side.
 
 *(Please add yourself if you know anything about this organization)*
 
-* Paul is a terrific guy, and would be a good boss and mentor. I am working as an advisor to a product that he is helping to bring to market.
+* Scout: Paul is a terrific guy, and would be a good boss and mentor. I am working as an advisor to a product that he is helping to bring to market.
 
 
     
