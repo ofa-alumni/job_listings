@@ -1,4 +1,3 @@
-
 #Amazon Music
 
 * Email: [pstiff@amazon.com](mailto:pstiff@amazon.com)
@@ -31,11 +30,7 @@ It's fun, challenging and we work hard to make things easy for our users.
 
 You can send your resume to pstiff@amazon.com
 
-
-
-I am a friend and work colleague of Scout Addis who quit his job to work on the campaign as a full-time Interaction Designer.  Love that.  He is the one who gave me the link to post jobs to those that might be interested.  
-
-
+I am a friend and work colleague of Scout Addis.
 
 I can also send job descriptions on request. 
 
