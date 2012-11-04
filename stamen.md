@@ -15,14 +15,16 @@ You will author and support the technical underpinnings of Stamen’s client wor
 Primary responsibilities:
 ----
 
-Design and support server-side infrastructure for Stamen’s projects, a mix of client-facing, internally-motivated and open source work. You will be responsible for a mix of already existing and new systems, and will have wide latitude in technical design decisions for new projects.
-Maintain our internal infrastructure for development and experimentation on new data projects and client communication tools. Stamen self-hosts blogs and revision control systems for all projects, and supports our work with an in-studio collection of servers and databases.
+* Design and support server-side infrastructure for Stamen’s projects, a mix of client-facing, internally-motivated and open source work. You will be responsible for a mix of already existing and new systems, and will have wide latitude in technical design decisions for new projects.
+* Maintain our internal infrastructure for development and experimentation on new data projects and client communication tools. Stamen self-hosts blogs and revision control systems for all projects, and supports our work with an in-studio collection of servers and databases.
+
 Requirements:
+----
 
 * 5+ years Linux system experience, including shell and command-line text editing, day-to-day maintenance of files and backups, installation of new software including building from source, working with databases like MySQL and Postgres, and familiarity with basic task automation and monitoring. Ubuntu or Debian experience a plus!
 * 5+ years programming experience, including 3+ years of Python.
-Understanding of RFC 2616 and other internet-related standards.
-A positive outlook and willingness to try new things with a wide variety of people and clients.
+* Understanding of RFC 2616 and other internet-related standards.
+* A positive outlook and willingness to try new things with a wide variety of people and clients.
 
 Bonus skills:
 ----
