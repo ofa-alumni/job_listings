@@ -84,7 +84,7 @@ You will get the chance to do the following at Vibes:
 
 *(Please add yourself if you know anything about this organization)*
 
-* Scott Robertson <srobertson@codeit.com> 
+* **Scott Robertson** <srobertson@codeit.com> 
 I served as VP of Product for 2 1/2 years at Vibes. They are a phenomenal company, reach out
 if you have questions or would like a personal intro.
 
