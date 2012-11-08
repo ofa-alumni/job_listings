@@ -34,4 +34,7 @@ Technical Program Management
 
 * Jeff Solnet (jsolnet@barackobama.com, jfsolnet@gmail.com)
   Intern, Google Politics and Elections Products
+
+* Chris Jones (cdjones@barackobama.com, cdjones@google.com)
+  Site Reliability Engineer since 2007.
     
