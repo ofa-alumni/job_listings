@@ -37,4 +37,7 @@ Technical Program Management
 
 * Chris Jones (cdjones@barackobama.com, cdjones@google.com)
   Site Reliability Engineer since 2007.
+
+* Sam McVeety (smcveety@barackobama.com, sgmc@google.com)
+  Software Engineer since 2009, Big Data processing infrastructure.
     
