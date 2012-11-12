@@ -1,4 +1,3 @@
-
 #Figure 53
 
 * Email: [chris@figure53.com](mailto:chris@figure53.com)
@@ -95,7 +94,7 @@ Right now, (1) means I'm interested in designers* and web developers.
 
 *(Please add yourself if you know anything about this organization)*
 
-* 
+* [Jesse Kriss](mailto:jesse@jklabs.net) This is where I worked immediately before the campaign. I also helped create the very first version of [QLab with Chris back in 2004](http://chrisashworth.org/blog/2010/02/19/the-illustrated-history-of-qlab-personal-milestone-edition/). This is a great company, with great people. Fun fact: Chris also made [Slow Clap for Congress](http://chrisashworth.org/blog/2011/09/01/slow-clap-for-congress/).
 
 
     
