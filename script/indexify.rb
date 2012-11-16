@@ -28,7 +28,7 @@ class Posting
   end
   
   def opportunities
-    @opportunities ||= @data.scan(/##What kind of opportunities are available at your organization\?(.*)##/m)[0]
+    @opportunities ||= @data.scan(/##What kind of opportunities are available at your organization\?(.*)##/m)[0][0].gsub(/[\r\n]+/, "<br/>") rescue "" 
   end
   
 end
@@ -59,7 +59,7 @@ EOF
 
 postings.each do |post|
   print "."
-  outfile.puts "<tr><td><a href='https://github.com/ofa/job_listings/blob/master/#{post.slug}'>#{post.name}</a></td><td>#{post.location}</td><td>#{post.opportunities}</td></tr>"
+  outfile.puts "<tr><td><a href='https://github.com/ofa-alumni/job_listings/blob/master/#{post.slug}'>#{post.name}</a></td><td>#{post.location}</td><td>#{post.opportunities}</td></tr>"
 end
 
 outfile.puts <<-EOF
