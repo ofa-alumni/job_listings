@@ -1,4 +1,3 @@
-
 #Apple
 
 * Email: [jmogos@apple.com](mailto:jmogos@apple.com)
@@ -23,7 +22,7 @@ I work in our field training team, currently we are looking for a candidate in C
 
 *(Please add yourself if you know anything about this organization)*
 
-* 
+* Chris Gansen: I am close friends with John. I would be happy to make an introduction.
 
 
     
